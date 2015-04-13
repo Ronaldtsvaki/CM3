@@ -24,7 +24,8 @@ int main(int argc, char *argv[]) {
 	 string name;
 	 cout << "Please enter your name: ";
 	 cin >> name;
-	 cout << "Hello, " << name << endl;
+	 cout << "Hello, " << name <<"\n\n" <<endl;
+	 system("pause");
 
 	// 1.4 merge branch "hello" into "master" keeping ALL of the code added so far
 
